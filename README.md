@@ -1,5 +1,5 @@
 - Hi, I’m Victor
-- I am proficent in HTML and CSS and ok in JavaScript
+- I am proficent in HTML and CSS and mildly skilled in JavaScript
 - Curentlly learning: Java, C#
 - Currently Developing: Tradingdeck
 <!---
